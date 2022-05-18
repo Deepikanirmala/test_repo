@@ -2,6 +2,6 @@ git init=> to initialise git
 git status=> list all untracked files
 git add -A=>used to add to staging area
 git remote add name path
-git remote push -u name master
+git remote push -u name branch
 git remote -v =>listing remote connections
 
